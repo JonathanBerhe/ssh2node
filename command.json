@@ -1,0 +1,7 @@
+{
+    "command": [
+      "dir",
+      "ls",
+      "echo ciao"
+      ]
+  }
